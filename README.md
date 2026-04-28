@@ -12,7 +12,7 @@ It automates the checkout functionality of the Swag Labs mobile application.
 - Pytest HTML Report
 
 ## Project Structure
-
+'''
 Swaglabs
 │
 ├── pages
@@ -30,7 +30,7 @@ Swaglabs
 │
 └── report.html
 
-
+'''
 ## Test Scenario
 
 The automated test performs the following steps:
