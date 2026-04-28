@@ -27,7 +27,7 @@ Swaglabs
 │    └── driver_setup.py
 │
 ├── conftest.py
-│
+├── requirements.txt
 └── report.html
 
 ```
